@@ -163,7 +163,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 ## 👤AUTHOR
 
 **Your Name**
-- GitHub:[@your-username](https://github.com/progammer-sukanta )
+- GitHub:[@my-username](https://github.com/progammer-sukanta )
 - LinkedIn: 
 
 ---
