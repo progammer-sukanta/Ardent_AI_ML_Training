@@ -164,7 +164,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 **Your Name**
 - GitHub:[@my-username](https://github.com/progammer-sukanta )
-- LinkedIn: 
+- LinkedIn: https://www.linkedin.com/in/sukanta-bera-a289143b1/
 
 ---
 
