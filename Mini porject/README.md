@@ -159,7 +159,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 ## 👤 Author
 
 **AKASH HALDER**
-- GitHub: [@programmer_sukanta](https://github.com/programmer_sukanta)
+- GitHub: [@progammer-sukanta](https://github.com/progammer-sukanta)
 - LinkedIn: 
 
 ---
